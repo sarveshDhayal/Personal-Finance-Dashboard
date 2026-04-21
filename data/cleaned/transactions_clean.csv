@@ -1,0 +1,351 @@
+Date,Description,Amount,Transaction Type,Category,Account Name,month,month_name,week,year,day_of_week,quarter,transaction_type,category
+2018-01-01,Amazon,-11.11,debit,Shopping,Platinum Card,2018-01,Jan 2018,1,2018,Monday,2018Q1,Expense,Shopping
+2018-02-01,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,5,2018,Thursday,2018Q1,Expense,Other
+2018-02-01,Thai Restaurant,-24.22,debit,Restaurants,Silver Card,2018-02,Feb 2018,5,2018,Thursday,2018Q1,Expense,Food & Dining
+2018-03-01,Credit Card Payment,2298.09,credit,Credit Card Payment,Platinum Card,2018-03,Mar 2018,9,2018,Thursday,2018Q1,Income,Other
+2018-04-01,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,13,2018,Sunday,2018Q2,Expense,Entertainment
+2018-05-01,American Tavern,-25.85,debit,Restaurants,Silver Card,2018-05,May 2018,18,2018,Tuesday,2018Q2,Expense,Other
+2018-06-01,Hardware Store,-18.45,debit,Home Improvement,Silver Card,2018-06,Jun 2018,22,2018,Friday,2018Q2,Expense,Other
+2018-08-01,Gas Company,-45.0,debit,Utilities,Checking,2018-08,Aug 2018,31,2018,Wednesday,2018Q3,Expense,Other
+2018-08-01,Hardware Store,-15.38,debit,Home Improvement,Silver Card,2018-08,Aug 2018,31,2018,Wednesday,2018Q3,Expense,Other
+2018-09-01,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,35,2018,Saturday,2018Q3,Expense,Entertainment
+2018-10-01,Phone Company,-89.46,debit,Mobile Phone,Checking,2018-10,Oct 2018,40,2018,Monday,2018Q4,Expense,Other
+2018-11-01,Shell,-34.87,debit,Gas & Fuel,Platinum Card,2018-11,Nov 2018,44,2018,Thursday,2018Q4,Expense,Other
+2018-11-01,Grocery Store,-43.54,debit,Groceries,Platinum Card,2018-11,Nov 2018,44,2018,Thursday,2018Q4,Expense,Other
+2018-12-01,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-12,Dec 2018,48,2018,Saturday,2018Q4,Income,Other
+2018-01-02,Grocery Store,-27.79,debit,Groceries,Platinum Card,2018-01,Jan 2018,1,2018,Tuesday,2018Q1,Expense,Other
+2018-01-02,Amazon,-11.11,debit,Shopping,Platinum Card,2018-01,Jan 2018,1,2018,Tuesday,2018Q1,Expense,Shopping
+2018-02-02,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,5,2018,Friday,2018Q1,Expense,Other
+2018-02-02,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-02,Feb 2018,5,2018,Friday,2018Q1,Income,Other
+2018-03-02,Japanese Restaurant,-57.02,debit,Restaurants,Platinum Card,2018-03,Mar 2018,9,2018,Friday,2018Q1,Expense,Food & Dining
+2018-04-02,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,14,2018,Monday,2018Q2,Expense,Entertainment
+2018-05-02,Credit Card Payment,145.14,credit,Credit Card Payment,Platinum Card,2018-05,May 2018,18,2018,Wednesday,2018Q2,Income,Other
+2018-06-02,Credit Card Payment,154.13,credit,Credit Card Payment,Silver Card,2018-06,Jun 2018,22,2018,Saturday,2018Q2,Income,Other
+2018-07-02,Credit Card Payment,-154.13,debit,Credit Card Payment,Checking,2018-07,Jul 2018,27,2018,Monday,2018Q3,Expense,Other
+2018-07-02,Gas Company,-65.0,debit,Utilities,Checking,2018-07,Jul 2018,27,2018,Monday,2018Q3,Expense,Other
+2018-09-02,Barbershop,-30.0,debit,Haircut,Platinum Card,2018-09,Sep 2018,35,2018,Sunday,2018Q3,Expense,Other
+2018-09-02,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,35,2018,Sunday,2018Q3,Expense,Entertainment
+2018-10-02,Bojangles,-10.66,debit,Fast Food,Platinum Card,2018-10,Oct 2018,40,2018,Tuesday,2018Q4,Expense,Other
+2018-11-02,Fancy Restaurant,-106.8,debit,Restaurants,Platinum Card,2018-11,Nov 2018,44,2018,Friday,2018Q4,Expense,Food & Dining
+2018-12-02,Shell,-36.47,debit,Gas & Fuel,Silver Card,2018-12,Dec 2018,48,2018,Sunday,2018Q4,Expense,Other
+2018-12-02,Phone Company,-89.52,debit,Mobile Phone,Checking,2018-12,Dec 2018,48,2018,Sunday,2018Q4,Expense,Other
+2018-01-03,Grocery Store,-32.07,debit,Groceries,Silver Card,2018-01,Jan 2018,1,2018,Wednesday,2018Q1,Expense,Other
+2018-01-03,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,1,2018,Wednesday,2018Q1,Expense,Shopping
+2018-02-03,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,5,2018,Saturday,2018Q1,Expense,Other
+2018-02-03,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-02,Feb 2018,5,2018,Saturday,2018Q1,Income,Other
+2018-03-03,Grocery Store,-23.74,debit,Groceries,Silver Card,2018-03,Mar 2018,9,2018,Saturday,2018Q1,Expense,Other
+2018-04-03,Grocery Store,-10.69,debit,Groceries,Platinum Card,2018-04,Apr 2018,14,2018,Tuesday,2018Q2,Expense,Other
+2018-04-03,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,14,2018,Tuesday,2018Q2,Expense,Entertainment
+2018-04-03,BBQ Restaurant,-42.24,debit,Restaurants,Platinum Card,2018-04,Apr 2018,14,2018,Tuesday,2018Q2,Expense,Food & Dining
+2018-05-03,Starbucks,-3.0,debit,Coffee Shops,Platinum Card,2018-05,May 2018,18,2018,Thursday,2018Q2,Expense,Other
+2018-05-03,Credit Card Payment,761.59,credit,Credit Card Payment,Silver Card,2018-05,May 2018,18,2018,Thursday,2018Q2,Income,Other
+2018-05-03,Credit Card Payment,-761.59,debit,Credit Card Payment,Checking,2018-05,May 2018,18,2018,Thursday,2018Q2,Expense,Other
+2018-07-03,Starbucks,-3.5,debit,Coffee Shops,Platinum Card,2018-07,Jul 2018,27,2018,Tuesday,2018Q3,Expense,Other
+2018-08-03,BP,-34.9,debit,Gas & Fuel,Platinum Card,2018-08,Aug 2018,31,2018,Friday,2018Q3,Expense,Other
+2018-08-03,Gas Company,-52.0,debit,Utilities,Checking,2018-08,Aug 2018,31,2018,Friday,2018Q3,Expense,Other
+2018-09-03,Grocery Store,-20.72,debit,Groceries,Platinum Card,2018-09,Sep 2018,36,2018,Monday,2018Q3,Expense,Other
+2018-09-03,Grocery Store,-5.09,debit,Groceries,Platinum Card,2018-09,Sep 2018,36,2018,Monday,2018Q3,Expense,Other
+2018-09-03,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,36,2018,Monday,2018Q3,Expense,Entertainment
+2018-12-03,Grocery Store,-19.35,debit,Groceries,Platinum Card,2018-12,Dec 2018,49,2018,Monday,2018Q4,Expense,Other
+2018-12-03,Phone Company,-89.52,debit,Mobile Phone,Checking,2018-12,Dec 2018,49,2018,Monday,2018Q4,Expense,Other
+2018-01-04,Grocery Store,-80.79,debit,Groceries,Platinum Card,2018-01,Jan 2018,1,2018,Thursday,2018Q1,Expense,Other
+2018-01-04,Brewing Company,-59.48,debit,Restaurants,Platinum Card,2018-01,Jan 2018,1,2018,Thursday,2018Q1,Expense,Other
+2018-01-04,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,1,2018,Thursday,2018Q1,Expense,Shopping
+2018-02-04,Credit Card Payment,817.14,credit,Credit Card Payment,Silver Card,2018-02,Feb 2018,5,2018,Sunday,2018Q1,Income,Other
+2018-02-04,Credit Card Payment,-817.14,debit,Credit Card Payment,Checking,2018-02,Feb 2018,5,2018,Sunday,2018Q1,Expense,Other
+2018-02-04,Grocery Store,-82.36,debit,Groceries,Platinum Card,2018-02,Feb 2018,5,2018,Sunday,2018Q1,Expense,Other
+2018-02-04,Hardware Store,-13.89,debit,Home Improvement,Platinum Card,2018-02,Feb 2018,5,2018,Sunday,2018Q1,Expense,Other
+2018-02-04,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,5,2018,Sunday,2018Q1,Expense,Other
+2018-03-04,Amazon Video,-6.41,debit,Movies & DVDs,Platinum Card,2018-03,Mar 2018,9,2018,Sunday,2018Q1,Expense,Shopping
+2018-04-04,Credit Card Payment,363.08,credit,Credit Card Payment,Platinum Card,2018-04,Apr 2018,14,2018,Wednesday,2018Q2,Income,Other
+2018-04-04,Credit Card Payment,-363.08,debit,Credit Card Payment,Checking,2018-04,Apr 2018,14,2018,Wednesday,2018Q2,Expense,Other
+2018-04-04,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,14,2018,Wednesday,2018Q2,Expense,Entertainment
+2018-06-04,Chevron,-4.58,debit,Gas & Fuel,Platinum Card,2018-06,Jun 2018,23,2018,Monday,2018Q2,Expense,Other
+2018-06-04,Tiny Deli,-9.76,debit,Restaurants,Platinum Card,2018-06,Jun 2018,23,2018,Monday,2018Q2,Expense,Other
+2018-08-04,Irish Pub,-22.0,debit,Restaurants,Platinum Card,2018-08,Aug 2018,31,2018,Saturday,2018Q3,Expense,Other
+2018-09-04,Blue Sky Market,-6.48,debit,Groceries,Silver Card,2018-09,Sep 2018,36,2018,Tuesday,2018Q3,Expense,Other
+2018-09-04,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,36,2018,Tuesday,2018Q3,Expense,Entertainment
+2018-09-04,Gas Company,-30.0,debit,Utilities,Checking,2018-09,Sep 2018,36,2018,Tuesday,2018Q3,Expense,Other
+2018-11-04,Phone Company,-89.52,debit,Mobile Phone,Checking,2018-11,Nov 2018,44,2018,Sunday,2018Q4,Expense,Other
+2018-12-04,Starbucks,-7.0,debit,Coffee Shops,Platinum Card,2018-12,Dec 2018,49,2018,Tuesday,2018Q4,Expense,Other
+2018-12-04,Barbershop,-30.0,debit,Haircut,Platinum Card,2018-12,Dec 2018,49,2018,Tuesday,2018Q4,Expense,Other
+2018-01-05,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,1,2018,Friday,2018Q1,Expense,Shopping
+2018-02-05,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,6,2018,Monday,2018Q1,Expense,Other
+2018-03-05,Amazon,-49.72,debit,Shopping,Platinum Card,2018-03,Mar 2018,10,2018,Monday,2018Q1,Expense,Shopping
+2018-04-05,Grocery Store,-42.23,debit,Groceries,Platinum Card,2018-04,Apr 2018,14,2018,Thursday,2018Q2,Expense,Other
+2018-04-05,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,14,2018,Thursday,2018Q2,Expense,Entertainment
+2018-05-05,Bojangles,-7.27,debit,Fast Food,Platinum Card,2018-05,May 2018,18,2018,Saturday,2018Q2,Expense,Other
+2018-05-05,Pizza Place,-20.52,debit,Fast Food,Platinum Card,2018-05,May 2018,18,2018,Saturday,2018Q2,Expense,Food & Dining
+2018-06-05,Hardware Store,-22.37,debit,Home Improvement,Platinum Card,2018-06,Jun 2018,23,2018,Tuesday,2018Q2,Expense,Other
+2018-06-05,Amazon,-117.69,debit,Shopping,Platinum Card,2018-06,Jun 2018,23,2018,Tuesday,2018Q2,Expense,Shopping
+2018-09-05,Credit Card Payment,601.4,credit,Credit Card Payment,Platinum Card,2018-09,Sep 2018,36,2018,Wednesday,2018Q3,Income,Other
+2018-09-05,Credit Card Payment,-601.4,debit,Credit Card Payment,Checking,2018-09,Sep 2018,36,2018,Wednesday,2018Q3,Expense,Other
+2018-09-05,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,36,2018,Wednesday,2018Q3,Expense,Entertainment
+2018-09-05,Gas Company,-30.0,debit,Utilities,Checking,2018-09,Sep 2018,36,2018,Wednesday,2018Q3,Expense,Other
+2018-10-05,Phone Company,-111.18,debit,Mobile Phone,Checking,2018-10,Oct 2018,40,2018,Friday,2018Q4,Expense,Other
+2018-11-05,Grocery Store,-57.32,debit,Groceries,Platinum Card,2018-11,Nov 2018,45,2018,Monday,2018Q4,Expense,Other
+2018-11-05,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-11,Nov 2018,45,2018,Monday,2018Q4,Income,Other
+2018-11-05,Mike's Construction Co.,-8000.0,debit,Home Improvement,Checking,2018-11,Nov 2018,45,2018,Monday,2018Q4,Expense,Other
+2018-12-05,Liquor Store,-27.77,debit,Alcohol & Bars,Platinum Card,2018-12,Dec 2018,49,2018,Wednesday,2018Q4,Expense,Other
+2018-12-05,Shell,-33.3,debit,Gas & Fuel,Platinum Card,2018-12,Dec 2018,49,2018,Wednesday,2018Q4,Expense,Other
+2018-12-05,Fancy Restaurant,-78.0,debit,Restaurants,Platinum Card,2018-12,Dec 2018,49,2018,Wednesday,2018Q4,Expense,Food & Dining
+2018-01-06,BP,-38.63,debit,Gas & Fuel,Platinum Card,2018-01,Jan 2018,1,2018,Saturday,2018Q1,Expense,Other
+2018-01-06,Grocery Store,-6.11,debit,Groceries,Platinum Card,2018-01,Jan 2018,1,2018,Saturday,2018Q1,Expense,Other
+2018-01-06,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,1,2018,Saturday,2018Q1,Expense,Shopping
+2018-02-06,Credit Card Payment,235.18,credit,Credit Card Payment,Silver Card,2018-02,Feb 2018,6,2018,Tuesday,2018Q1,Income,Other
+2018-02-06,Credit Card Payment,466.36,credit,Credit Card Payment,Platinum Card,2018-02,Feb 2018,6,2018,Tuesday,2018Q1,Income,Other
+2018-03-06,Italian Restaurant,-65.81,debit,Restaurants,Platinum Card,2018-03,Mar 2018,10,2018,Tuesday,2018Q1,Expense,Food & Dining
+2018-04-06,Credit Card Payment,-235.18,debit,Credit Card Payment,Checking,2018-04,Apr 2018,14,2018,Friday,2018Q2,Expense,Other
+2018-04-06,Grocery Store,-24.12,debit,Groceries,Platinum Card,2018-04,Apr 2018,14,2018,Friday,2018Q2,Expense,Other
+2018-04-06,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-04,Apr 2018,14,2018,Friday,2018Q2,Expense,Other
+2018-04-06,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,14,2018,Friday,2018Q2,Expense,Entertainment
+2018-06-06,Starbucks,-4.0,debit,Coffee Shops,Platinum Card,2018-06,Jun 2018,23,2018,Wednesday,2018Q2,Expense,Other
+2018-08-06,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-08,Aug 2018,32,2018,Monday,2018Q3,Income,Other
+2018-08-06,Gas Company,-30.0,debit,Utilities,Checking,2018-08,Aug 2018,32,2018,Monday,2018Q3,Expense,Other
+2018-09-06,Chick-Fil-A,-16.18,debit,Fast Food,Platinum Card,2018-09,Sep 2018,36,2018,Thursday,2018Q3,Expense,Other
+2018-09-06,Grocery Store,-9.56,debit,Groceries,Platinum Card,2018-09,Sep 2018,36,2018,Thursday,2018Q3,Expense,Other
+2018-09-06,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,36,2018,Thursday,2018Q3,Expense,Entertainment
+2018-10-06,Grocery Store,-46.01,debit,Groceries,Platinum Card,2018-10,Oct 2018,40,2018,Saturday,2018Q4,Expense,Other
+2018-12-06,Grocery Store,-12.55,debit,Groceries,Platinum Card,2018-12,Dec 2018,49,2018,Thursday,2018Q4,Expense,Other
+2018-12-06,Phone Company,-89.46,debit,Mobile Phone,Checking,2018-12,Dec 2018,49,2018,Thursday,2018Q4,Expense,Other
+2018-01-07,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,1,2018,Sunday,2018Q1,Expense,Shopping
+2018-02-07,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,6,2018,Wednesday,2018Q1,Expense,Other
+2018-02-07,Movie Theater,-25.0,debit,Movies & DVDs,Silver Card,2018-02,Feb 2018,6,2018,Wednesday,2018Q1,Expense,Other
+2018-02-07,American Tavern,-36.44,debit,Restaurants,Silver Card,2018-02,Feb 2018,6,2018,Wednesday,2018Q1,Expense,Other
+2018-04-07,BP,-34.48,debit,Gas & Fuel,Silver Card,2018-04,Apr 2018,14,2018,Saturday,2018Q2,Expense,Other
+2018-04-07,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,14,2018,Saturday,2018Q2,Expense,Entertainment
+2018-05-07,Grocery Store,-44.25,debit,Groceries,Silver Card,2018-05,May 2018,19,2018,Monday,2018Q2,Expense,Other
+2018-05-07,Amazon,-212.32,debit,Shopping,Platinum Card,2018-05,May 2018,19,2018,Monday,2018Q2,Expense,Shopping
+2018-06-07,Amazon Video,-6.41,debit,Movies & DVDs,Platinum Card,2018-06,Jun 2018,23,2018,Thursday,2018Q2,Expense,Shopping
+2018-06-07,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-06,Jun 2018,23,2018,Thursday,2018Q2,Income,Other
+2018-08-07,Credit Card Payment,259.87,credit,Credit Card Payment,Platinum Card,2018-08,Aug 2018,32,2018,Tuesday,2018Q3,Income,Other
+2018-09-07,Credit Card Payment,242.16,credit,Credit Card Payment,Silver Card,2018-09,Sep 2018,36,2018,Friday,2018Q3,Income,Other
+2018-09-07,Credit Card Payment,-259.87,debit,Credit Card Payment,Checking,2018-09,Sep 2018,36,2018,Friday,2018Q3,Expense,Other
+2018-09-07,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,36,2018,Friday,2018Q3,Expense,Entertainment
+2018-10-07,Credit Card Payment,-242.16,debit,Credit Card Payment,Checking,2018-10,Oct 2018,40,2018,Sunday,2018Q4,Expense,Other
+2018-10-07,Grocery Store,-5.39,debit,Groceries,Silver Card,2018-10,Oct 2018,40,2018,Sunday,2018Q4,Expense,Other
+2018-10-07,Gas Company,-30.0,debit,Utilities,Checking,2018-10,Oct 2018,40,2018,Sunday,2018Q4,Expense,Other
+2018-11-07,Phone Company,-89.46,debit,Mobile Phone,Checking,2018-11,Nov 2018,45,2018,Wednesday,2018Q4,Expense,Other
+2018-01-08,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,2,2018,Monday,2018Q1,Expense,Shopping
+2018-02-08,Credit Card Payment,816.27,credit,Credit Card Payment,Platinum Card,2018-02,Feb 2018,6,2018,Thursday,2018Q1,Income,Other
+2018-02-08,Shell,-40.44,debit,Gas & Fuel,Silver Card,2018-02,Feb 2018,6,2018,Thursday,2018Q1,Expense,Other
+2018-02-08,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,6,2018,Thursday,2018Q1,Expense,Other
+2018-03-08,Grocery Store,-6.27,debit,Groceries,Silver Card,2018-03,Mar 2018,10,2018,Thursday,2018Q1,Expense,Other
+2018-03-08,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-03,Mar 2018,10,2018,Thursday,2018Q1,Income,Other
+2018-04-08,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,14,2018,Sunday,2018Q2,Expense,Entertainment
+2018-06-08,Amazon,-76.47,debit,Shopping,Platinum Card,2018-06,Jun 2018,23,2018,Friday,2018Q2,Expense,Shopping
+2018-09-08,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,36,2018,Saturday,2018Q3,Expense,Entertainment
+2018-09-08,Gas Company,-30.0,debit,Utilities,Checking,2018-09,Sep 2018,36,2018,Saturday,2018Q3,Expense,Other
+2018-10-08,Phone Company,-89.4,debit,Mobile Phone,Checking,2018-10,Oct 2018,41,2018,Monday,2018Q4,Expense,Other
+2018-11-08,Chick-Fil-A,-13.67,debit,Fast Food,Platinum Card,2018-11,Nov 2018,45,2018,Thursday,2018Q4,Expense,Other
+2018-11-08,Valero,-33.66,debit,Gas & Fuel,Platinum Card,2018-11,Nov 2018,45,2018,Thursday,2018Q4,Expense,Other
+2018-01-09,Brewing Company,-47.4,debit,Alcohol & Bars,Platinum Card,2018-01,Jan 2018,2,2018,Tuesday,2018Q1,Expense,Other
+2018-01-09,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,2,2018,Tuesday,2018Q1,Expense,Shopping
+2018-02-09,Amazon,-109.83,debit,Shopping,Platinum Card,2018-02,Feb 2018,6,2018,Friday,2018Q1,Expense,Shopping
+2018-04-09,Credit Card Payment,687.29,credit,Credit Card Payment,Platinum Card,2018-04,Apr 2018,15,2018,Monday,2018Q2,Income,Other
+2018-04-09,Credit Card Payment,-687.29,debit,Credit Card Payment,Checking,2018-04,Apr 2018,15,2018,Monday,2018Q2,Expense,Other
+2018-04-09,Mortgage Payment,-1247.44,debit,Mortgage & Rent,Checking,2018-04,Apr 2018,15,2018,Monday,2018Q2,Expense,Other
+2018-04-09,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,15,2018,Monday,2018Q2,Expense,Entertainment
+2018-07-09,Gas Company,-30.0,debit,Utilities,Checking,2018-07,Jul 2018,28,2018,Monday,2018Q3,Expense,Other
+2018-09-09,Brewing Company,-18.0,debit,Alcohol & Bars,Platinum Card,2018-09,Sep 2018,36,2018,Sunday,2018Q3,Expense,Other
+2018-09-09,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,36,2018,Sunday,2018Q3,Expense,Entertainment
+2018-11-09,BP,-38.86,debit,Gas & Fuel,Platinum Card,2018-11,Nov 2018,45,2018,Friday,2018Q4,Expense,Other
+2018-11-09,Grocery Store,-7.87,debit,Groceries,Platinum Card,2018-11,Nov 2018,45,2018,Friday,2018Q4,Expense,Other
+2018-12-09,Grocery Store,-47.16,debit,Groceries,Platinum Card,2018-12,Dec 2018,49,2018,Sunday,2018Q4,Expense,Other
+2018-12-09,Phone Company,-89.4,debit,Mobile Phone,Checking,2018-12,Dec 2018,49,2018,Sunday,2018Q4,Expense,Other
+2018-01-10,Starbucks,-3.0,debit,Coffee Shops,Platinum Card,2018-01,Jan 2018,2,2018,Wednesday,2018Q1,Expense,Other
+2018-01-10,Credit Card Payment,-128.12,debit,Credit Card Payment,Checking,2018-01,Jan 2018,2,2018,Wednesday,2018Q1,Expense,Other
+2018-01-10,Grocery Store,-15.66,debit,Groceries,Platinum Card,2018-01,Jan 2018,2,2018,Wednesday,2018Q1,Expense,Other
+2018-01-10,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,2,2018,Wednesday,2018Q1,Expense,Shopping
+2018-02-10,Credit Card Payment,124.03,credit,Credit Card Payment,Platinum Card,2018-02,Feb 2018,6,2018,Saturday,2018Q1,Income,Other
+2018-02-10,Credit Card Payment,-124.03,debit,Credit Card Payment,Checking,2018-02,Feb 2018,6,2018,Saturday,2018Q1,Expense,Other
+2018-02-10,Mortgage Payment,-1209.18,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,6,2018,Saturday,2018Q1,Expense,Other
+2018-04-10,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,15,2018,Tuesday,2018Q2,Expense,Entertainment
+2018-06-10,American Tavern,-27.0,debit,Restaurants,Silver Card,2018-06,Jun 2018,23,2018,Sunday,2018Q2,Expense,Other
+2018-08-10,Shell,-38.06,debit,Gas & Fuel,Silver Card,2018-08,Aug 2018,32,2018,Friday,2018Q3,Expense,Other
+2018-08-10,Hardware Store,-80.65,debit,Home Improvement,Silver Card,2018-08,Aug 2018,32,2018,Friday,2018Q3,Expense,Other
+2018-08-10,Hardware Store,-31.2,debit,Home Improvement,Silver Card,2018-08,Aug 2018,32,2018,Friday,2018Q3,Expense,Other
+2018-09-10,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,37,2018,Monday,2018Q3,Expense,Entertainment
+2018-09-10,Amazon,-19.98,debit,Shopping,Platinum Card,2018-09,Sep 2018,37,2018,Monday,2018Q3,Expense,Shopping
+2018-09-10,Gas Company,-30.0,debit,Utilities,Checking,2018-09,Sep 2018,37,2018,Monday,2018Q3,Expense,Other
+2018-10-10,Grocery Store,-53.68,debit,Groceries,Silver Card,2018-10,Oct 2018,41,2018,Wednesday,2018Q4,Expense,Other
+2018-11-10,Phone Company,-89.4,debit,Mobile Phone,Checking,2018-11,Nov 2018,45,2018,Saturday,2018Q4,Expense,Other
+2018-12-10,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-12,Dec 2018,50,2018,Monday,2018Q4,Income,Other
+2018-01-11,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,2,2018,Thursday,2018Q1,Expense,Shopping
+2018-02-11,Credit Card Payment,262.51,credit,Credit Card Payment,Platinum Card,2018-02,Feb 2018,6,2018,Sunday,2018Q1,Income,Other
+2018-02-11,Credit Card Payment,-262.51,debit,Credit Card Payment,Checking,2018-02,Feb 2018,6,2018,Sunday,2018Q1,Expense,Other
+2018-02-11,Mortgage Payment,-1209.18,debit,Mortgage & Rent,Checking,2018-02,Feb 2018,6,2018,Sunday,2018Q1,Expense,Other
+2018-03-11,Pizza Place,-23.66,debit,Fast Food,Platinum Card,2018-03,Mar 2018,10,2018,Sunday,2018Q1,Expense,Food & Dining
+2018-04-11,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,15,2018,Wednesday,2018Q2,Expense,Entertainment
+2018-05-11,Shell,-36.51,debit,Gas & Fuel,Platinum Card,2018-05,May 2018,19,2018,Friday,2018Q2,Expense,Other
+2018-06-11,Amazon,-53.95,debit,Shopping,Platinum Card,2018-06,Jun 2018,24,2018,Monday,2018Q2,Expense,Shopping
+2018-06-11,Gas Company,-30.0,debit,Utilities,Checking,2018-06,Jun 2018,24,2018,Monday,2018Q2,Expense,Other
+2018-08-11,Grocery Store,-5.64,debit,Groceries,Platinum Card,2018-08,Aug 2018,32,2018,Saturday,2018Q3,Expense,Other
+2018-09-11,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,37,2018,Tuesday,2018Q3,Expense,Entertainment
+2018-09-11,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-09,Sep 2018,37,2018,Tuesday,2018Q3,Income,Other
+2018-10-11,Brewing Company,-27.0,debit,Alcohol & Bars,Platinum Card,2018-10,Oct 2018,41,2018,Thursday,2018Q4,Expense,Other
+2018-10-11,Chick-Fil-A,-14.19,debit,Fast Food,Platinum Card,2018-10,Oct 2018,41,2018,Thursday,2018Q4,Expense,Other
+2018-10-11,Food Truck,-24.4,debit,Groceries,Platinum Card,2018-10,Oct 2018,41,2018,Thursday,2018Q4,Expense,Other
+2018-12-11,Grocery Store,-10.18,debit,Groceries,Platinum Card,2018-12,Dec 2018,50,2018,Tuesday,2018Q4,Expense,Other
+2018-12-11,American Tavern,-22.33,debit,Restaurants,Silver Card,2018-12,Dec 2018,50,2018,Tuesday,2018Q4,Expense,Other
+2018-01-12,Grocery Store,-5.64,debit,Groceries,Silver Card,2018-01,Jan 2018,2,2018,Friday,2018Q1,Expense,Other
+2018-01-12,Brunch Restaurant,-8.0,debit,Restaurants,Silver Card,2018-01,Jan 2018,2,2018,Friday,2018Q1,Expense,Food & Dining
+2018-01-12,Amazon,-13.13,debit,Shopping,Platinum Card,2018-01,Jan 2018,2,2018,Friday,2018Q1,Expense,Shopping
+2018-03-12,BP,-30.03,debit,Gas & Fuel,Silver Card,2018-03,Mar 2018,11,2018,Monday,2018Q1,Expense,Other
+2018-03-12,Grocery Store,-148.15,debit,Groceries,Silver Card,2018-03,Mar 2018,11,2018,Monday,2018Q1,Expense,Other
+2018-03-12,Mortgage Payment,-1209.18,debit,Mortgage & Rent,Checking,2018-03,Mar 2018,11,2018,Monday,2018Q1,Expense,Other
+2018-04-12,Starbucks,-3.0,debit,Coffee Shops,Silver Card,2018-04,Apr 2018,15,2018,Thursday,2018Q2,Expense,Other
+2018-04-12,Latin Restaurant,-20.65,debit,Fast Food,Platinum Card,2018-04,Apr 2018,15,2018,Thursday,2018Q2,Expense,Food & Dining
+2018-04-12,Netflix,-11.76,debit,Movies & DVDs,Platinum Card,2018-04,Apr 2018,15,2018,Thursday,2018Q2,Expense,Entertainment
+2018-06-12,Grocery Store,-21.38,debit,Groceries,Platinum Card,2018-06,Jun 2018,24,2018,Tuesday,2018Q2,Expense,Other
+2018-06-12,Grocery Store,-13.48,debit,Groceries,Platinum Card,2018-06,Jun 2018,24,2018,Tuesday,2018Q2,Expense,Other
+2018-06-12,Gas Company,-40.0,debit,Utilities,Checking,2018-06,Jun 2018,24,2018,Tuesday,2018Q2,Expense,Other
+2018-07-12,Barbershop,-30.0,debit,Haircut,Platinum Card,2018-07,Jul 2018,28,2018,Thursday,2018Q3,Expense,Other
+2018-07-12,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2018-07,Jul 2018,28,2018,Thursday,2018Q3,Income,Other
+2018-08-12,Grocery Store,-12.64,debit,Groceries,Platinum Card,2018-08,Aug 2018,32,2018,Sunday,2018Q3,Expense,Other
+2018-09-12,Spotify,-10.69,debit,Music,Platinum Card,2018-09,Sep 2018,37,2018,Wednesday,2018Q3,Expense,Entertainment
+2018-11-12,Brunch Restaurant,-10.29,debit,Restaurants,Platinum Card,2018-11,Nov 2018,46,2018,Monday,2018Q4,Expense,Food & Dining
+2018-12-12,Phone Company,-89.54,debit,Mobile Phone,Checking,2018-12,Dec 2018,50,2018,Wednesday,2018Q4,Expense,Other
+2019-01-01,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,1,2019,Tuesday,2019Q1,Expense,Shopping
+2019-02-01,Credit Card Payment,-499.6,debit,Credit Card Payment,Checking,2019-02,Feb 2019,5,2019,Friday,2019Q1,Expense,Other
+2019-03-01,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-03,Mar 2019,9,2019,Friday,2019Q1,Expense,Other
+2019-03-01,Amazon,-42.1,debit,Shopping,Platinum Card,2019-03,Mar 2019,9,2019,Friday,2019Q1,Expense,Shopping
+2019-04-01,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2019-04,Apr 2019,14,2019,Monday,2019Q2,Income,Other
+2019-05-01,American Tavern,-23.49,debit,Restaurants,Platinum Card,2019-05,May 2019,18,2019,Wednesday,2019Q2,Expense,Other
+2019-08-01,Gas Company,-45.0,debit,Utilities,Checking,2019-08,Aug 2019,31,2019,Thursday,2019Q3,Expense,Other
+2019-09-01,Credit Card Payment,491.45,credit,Credit Card Payment,Platinum Card,2019-09,Sep 2019,35,2019,Sunday,2019Q3,Income,Other
+2019-09-01,Credit Card Payment,-491.45,debit,Credit Card Payment,Checking,2019-09,Sep 2019,35,2019,Sunday,2019Q3,Expense,Other
+2019-09-01,Credit Card Payment,-281.84,debit,Credit Card Payment,Checking,2019-09,Sep 2019,35,2019,Sunday,2019Q3,Expense,Other
+2019-09-01,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,35,2019,Sunday,2019Q3,Expense,Entertainment
+2019-10-01,Grocery Store,-58.79,debit,Groceries,Silver Card,2019-10,Oct 2019,40,2019,Tuesday,2019Q4,Expense,Other
+2019-10-01,Barbershop,-30.0,debit,Haircut,Silver Card,2019-10,Oct 2019,40,2019,Tuesday,2019Q4,Expense,Other
+2019-10-01,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-10,Oct 2019,40,2019,Tuesday,2019Q4,Expense,Other
+2019-01-02,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2019-01,Jan 2019,1,2019,Wednesday,2019Q1,Income,Other
+2019-01-02,Roadside Diner,-9.47,debit,Restaurants,Silver Card,2019-01,Jan 2019,1,2019,Wednesday,2019Q1,Expense,Other
+2019-01-02,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,1,2019,Wednesday,2019Q1,Expense,Shopping
+2019-04-02,Hardware Store,-86.97,debit,Home Improvement,Silver Card,2019-04,Apr 2019,14,2019,Tuesday,2019Q2,Expense,Other
+2019-04-02,Netflix,-11.76,debit,Television,Platinum Card,2019-04,Apr 2019,14,2019,Tuesday,2019Q2,Expense,Entertainment
+2019-05-02,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-05,May 2019,18,2019,Thursday,2019Q2,Expense,Other
+2019-07-02,Gas Company,-65.0,debit,Utilities,Checking,2019-07,Jul 2019,27,2019,Tuesday,2019Q3,Expense,Other
+2019-08-02,Starbucks,-3.0,debit,Coffee Shops,Platinum Card,2019-08,Aug 2019,31,2019,Friday,2019Q3,Expense,Other
+2019-08-02,Thai Restaurant,-27.47,debit,Restaurants,Platinum Card,2019-08,Aug 2019,31,2019,Friday,2019Q3,Expense,Food & Dining
+2019-09-02,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,36,2019,Monday,2019Q3,Expense,Entertainment
+2019-11-02,Starbucks,-3.0,debit,Coffee Shops,Platinum Card,2019-11,Nov 2019,44,2019,Saturday,2019Q4,Expense,Other
+2019-11-02,Credit Card Payment,-133.95,debit,Credit Card Payment,Checking,2019-11,Nov 2019,44,2019,Saturday,2019Q4,Expense,Other
+2019-11-02,BP,-24.01,debit,Gas & Fuel,Platinum Card,2019-11,Nov 2019,44,2019,Saturday,2019Q4,Expense,Other
+2019-12-02,Grocery Store,-30.54,debit,Groceries,Platinum Card,2019-12,Dec 2019,49,2019,Monday,2019Q4,Expense,Other
+2019-12-02,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-12,Dec 2019,49,2019,Monday,2019Q4,Expense,Other
+2019-01-03,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2019-01,Jan 2019,1,2019,Thursday,2019Q1,Income,Other
+2019-01-03,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,1,2019,Thursday,2019Q1,Expense,Shopping
+2019-04-03,Grocery Store,-92.04,debit,Groceries,Silver Card,2019-04,Apr 2019,14,2019,Wednesday,2019Q2,Expense,Other
+2019-04-03,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-04,Apr 2019,14,2019,Wednesday,2019Q2,Expense,Other
+2019-04-03,Netflix,-11.76,debit,Television,Platinum Card,2019-04,Apr 2019,14,2019,Wednesday,2019Q2,Expense,Entertainment
+2019-05-03,Fancy Restaurant,-7.0,debit,Restaurants,Silver Card,2019-05,May 2019,18,2019,Friday,2019Q2,Expense,Food & Dining
+2019-06-03,Credit Card Payment,-491.86,debit,Credit Card Payment,Checking,2019-06,Jun 2019,23,2019,Monday,2019Q2,Expense,Other
+2019-08-03,BP,-34.08,debit,Gas & Fuel,Platinum Card,2019-08,Aug 2019,31,2019,Saturday,2019Q3,Expense,Other
+2019-08-03,Amazon,-27.17,debit,Shopping,Platinum Card,2019-08,Aug 2019,31,2019,Saturday,2019Q3,Expense,Shopping
+2019-08-03,Gas Company,-49.0,debit,Utilities,Checking,2019-08,Aug 2019,31,2019,Saturday,2019Q3,Expense,Other
+2019-09-03,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,36,2019,Tuesday,2019Q3,Expense,Entertainment
+2019-12-03,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-12,Dec 2019,49,2019,Tuesday,2019Q4,Expense,Other
+2019-12-03,Bakery Place,-3.02,debit,Restaurants,Platinum Card,2019-12,Dec 2019,49,2019,Tuesday,2019Q4,Expense,Other
+2019-01-04,Credit Card Payment,-1552.65,debit,Credit Card Payment,Checking,2019-01,Jan 2019,1,2019,Friday,2019Q1,Expense,Other
+2019-01-04,Credit Card Payment,600.51,credit,Credit Card Payment,Platinum Card,2019-01,Jan 2019,1,2019,Friday,2019Q1,Income,Other
+2019-01-04,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,1,2019,Friday,2019Q1,Expense,Shopping
+2019-02-04,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-02,Feb 2019,6,2019,Monday,2019Q1,Expense,Other
+2019-04-04,Grocery Store,-5.64,debit,Groceries,Platinum Card,2019-04,Apr 2019,14,2019,Thursday,2019Q2,Expense,Other
+2019-04-04,Amazon,-35.9,debit,Shopping,Platinum Card,2019-04,Apr 2019,14,2019,Thursday,2019Q2,Expense,Shopping
+2019-04-04,Netflix,-11.76,debit,Television,Platinum Card,2019-04,Apr 2019,14,2019,Thursday,2019Q2,Expense,Entertainment
+2019-06-04,Amazon,-27.54,debit,Shopping,Platinum Card,2019-06,Jun 2019,23,2019,Tuesday,2019Q2,Expense,Shopping
+2019-08-04,Gas Company,-30.0,debit,Utilities,Checking,2019-08,Aug 2019,31,2019,Sunday,2019Q3,Expense,Other
+2019-09-04,Credit Card Payment,-436.75,debit,Credit Card Payment,Checking,2019-09,Sep 2019,36,2019,Wednesday,2019Q3,Expense,Other
+2019-09-04,Grocery Store,-10.7,debit,Groceries,Platinum Card,2019-09,Sep 2019,36,2019,Wednesday,2019Q3,Expense,Other
+2019-09-04,Barbershop,-30.0,debit,Haircut,Platinum Card,2019-09,Sep 2019,36,2019,Wednesday,2019Q3,Expense,Other
+2019-09-04,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,36,2019,Wednesday,2019Q3,Expense,Entertainment
+2019-10-04,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-10,Oct 2019,40,2019,Friday,2019Q4,Expense,Other
+2019-12-04,Best Buy,-44.93,debit,Electronics & Software,Silver Card,2019-12,Dec 2019,49,2019,Wednesday,2019Q4,Expense,Other
+2019-12-04,Grocery Store,-41.34,debit,Groceries,Platinum Card,2019-12,Dec 2019,49,2019,Wednesday,2019Q4,Expense,Other
+2019-12-04,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2019-12,Dec 2019,49,2019,Wednesday,2019Q4,Income,Other
+2019-01-05,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,1,2019,Saturday,2019Q1,Expense,Shopping
+2019-02-05,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-02,Feb 2019,6,2019,Tuesday,2019Q1,Expense,Other
+2019-03-05,Credit Card Payment,-758.07,debit,Credit Card Payment,Checking,2019-03,Mar 2019,10,2019,Tuesday,2019Q1,Expense,Other
+2019-04-05,Netflix,-13.9,debit,Television,Platinum Card,2019-04,Apr 2019,14,2019,Friday,2019Q2,Expense,Entertainment
+2019-06-05,Amazon,-16.94,debit,Shopping,Platinum Card,2019-06,Jun 2019,23,2019,Wednesday,2019Q2,Expense,Shopping
+2019-07-05,Amazon,-38.56,debit,Shopping,Platinum Card,2019-07,Jul 2019,27,2019,Friday,2019Q3,Expense,Shopping
+2019-09-05,Best Buy,-331.69,debit,Electronics & Software,Platinum Card,2019-09,Sep 2019,36,2019,Thursday,2019Q3,Expense,Other
+2019-09-05,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,36,2019,Thursday,2019Q3,Expense,Entertainment
+2019-09-05,Target,-3.2,debit,Shopping,Platinum Card,2019-09,Sep 2019,36,2019,Thursday,2019Q3,Expense,Other
+2019-09-05,Gas Company,-30.0,debit,Utilities,Checking,2019-09,Sep 2019,36,2019,Thursday,2019Q3,Expense,Other
+2019-10-05,Best Buy,-21.39,debit,Electronics & Software,Silver Card,2019-10,Oct 2019,40,2019,Saturday,2019Q4,Expense,Other
+2019-10-05,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-10,Oct 2019,40,2019,Saturday,2019Q4,Expense,Other
+2019-10-05,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2019-10,Oct 2019,40,2019,Saturday,2019Q4,Income,Other
+2019-01-06,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,1,2019,Sunday,2019Q1,Expense,Shopping
+2019-03-06,Starbucks,-2.75,debit,Coffee Shops,Platinum Card,2019-03,Mar 2019,10,2019,Wednesday,2019Q1,Expense,Other
+2019-03-06,Credit Card Payment,260.95,credit,Credit Card Payment,Platinum Card,2019-03,Mar 2019,10,2019,Wednesday,2019Q1,Income,Other
+2019-03-06,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-03,Mar 2019,10,2019,Wednesday,2019Q1,Expense,Other
+2019-04-06,Barbershop,-30.0,debit,Haircut,Platinum Card,2019-04,Apr 2019,14,2019,Saturday,2019Q2,Expense,Other
+2019-04-06,Netflix,-13.9,debit,Television,Platinum Card,2019-04,Apr 2019,14,2019,Saturday,2019Q2,Expense,Entertainment
+2019-05-06,Grocery Store,-23.0,debit,Groceries,Platinum Card,2019-05,May 2019,19,2019,Monday,2019Q2,Expense,Other
+2019-05-06,Mexican Restaurant,-23.24,debit,Restaurants,Platinum Card,2019-05,May 2019,19,2019,Monday,2019Q2,Expense,Food & Dining
+2019-06-06,Starbucks,-3.75,debit,Coffee Shops,Platinum Card,2019-06,Jun 2019,23,2019,Thursday,2019Q2,Expense,Other
+2019-06-06,Grocery Store,-5.64,debit,Groceries,Platinum Card,2019-06,Jun 2019,23,2019,Thursday,2019Q2,Expense,Other
+2019-07-06,Credit Card Payment,-458.56,debit,Credit Card Payment,Checking,2019-07,Jul 2019,27,2019,Saturday,2019Q3,Expense,Other
+2019-07-06,Biweekly Paycheck,2000.0,credit,Paycheck,Checking,2019-07,Jul 2019,27,2019,Saturday,2019Q3,Income,Other
+2019-07-06,Gas Company,-30.0,debit,Utilities,Checking,2019-07,Jul 2019,27,2019,Saturday,2019Q3,Expense,Other
+2019-09-06,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,36,2019,Friday,2019Q3,Expense,Entertainment
+2019-12-06,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-12,Dec 2019,49,2019,Friday,2019Q4,Expense,Other
+2019-01-07,Starbucks,-7.0,debit,Coffee Shops,Silver Card,2019-01,Jan 2019,2,2019,Monday,2019Q1,Expense,Other
+2019-01-07,Grocery Store,-99.47,debit,Groceries,Silver Card,2019-01,Jan 2019,2,2019,Monday,2019Q1,Expense,Other
+2019-01-07,Hawaiian Grill,-24.97,debit,Restaurants,Silver Card,2019-01,Jan 2019,2,2019,Monday,2019Q1,Expense,Other
+2019-01-07,Thai Restaurant,-24.0,debit,Restaurants,Silver Card,2019-01,Jan 2019,2,2019,Monday,2019Q1,Expense,Food & Dining
+2019-01-07,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,2,2019,Monday,2019Q1,Expense,Shopping
+2019-02-07,Hardware Store,-229.9,debit,Home Improvement,Platinum Card,2019-02,Feb 2019,6,2019,Thursday,2019Q1,Expense,Other
+2019-02-07,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-02,Feb 2019,6,2019,Thursday,2019Q1,Expense,Other
+2019-04-07,Netflix,-13.9,debit,Television,Platinum Card,2019-04,Apr 2019,14,2019,Sunday,2019Q2,Expense,Entertainment
+2019-05-07,Brewing Company,-19.0,debit,Alcohol & Bars,Silver Card,2019-05,May 2019,19,2019,Tuesday,2019Q2,Expense,Other
+2019-05-07,Biweekly Paycheck,2250.0,credit,Paycheck,Checking,2019-05,May 2019,19,2019,Tuesday,2019Q2,Income,Other
+2019-06-07,Credit Card Payment,220.08,credit,Credit Card Payment,Silver Card,2019-06,Jun 2019,23,2019,Friday,2019Q2,Income,Other
+2019-06-07,Grocery Store,-92.98,debit,Groceries,Platinum Card,2019-06,Jun 2019,23,2019,Friday,2019Q2,Expense,Other
+2019-06-07,Greek Restaurant,-23.26,debit,Restaurants,Platinum Card,2019-06,Jun 2019,23,2019,Friday,2019Q2,Expense,Food & Dining
+2019-07-07,Hardware Store,-103.14,debit,Home Improvement,Platinum Card,2019-07,Jul 2019,27,2019,Sunday,2019Q3,Expense,Other
+2019-08-07,Credit Card Payment,-305.28,debit,Credit Card Payment,Checking,2019-08,Aug 2019,32,2019,Wednesday,2019Q3,Expense,Other
+2019-08-07,Credit Card Payment,-220.08,debit,Credit Card Payment,Checking,2019-08,Aug 2019,32,2019,Wednesday,2019Q3,Expense,Other
+2019-09-07,Credit Card Payment,549.72,credit,Credit Card Payment,Platinum Card,2019-09,Sep 2019,36,2019,Saturday,2019Q3,Income,Other
+2019-09-07,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,36,2019,Saturday,2019Q3,Expense,Entertainment
+2019-10-07,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-10,Oct 2019,41,2019,Monday,2019Q4,Expense,Other
+2019-10-07,Gas Company,-30.0,debit,Utilities,Checking,2019-10,Oct 2019,41,2019,Monday,2019Q4,Expense,Other
+2019-01-08,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,2,2019,Tuesday,2019Q1,Expense,Shopping
+2019-02-08,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-02,Feb 2019,6,2019,Friday,2019Q1,Expense,Other
+2019-02-08,Biweekly Paycheck,2250.0,credit,Paycheck,Checking,2019-02,Feb 2019,6,2019,Friday,2019Q1,Income,Other
+2019-03-08,BP,-36.36,debit,Gas & Fuel,Platinum Card,2019-03,Mar 2019,10,2019,Friday,2019Q1,Expense,Other
+2019-03-08,Grocery Store,-3.96,debit,Groceries,Platinum Card,2019-03,Mar 2019,10,2019,Friday,2019Q1,Expense,Other
+2019-03-08,American Tavern,-23.47,debit,Restaurants,Platinum Card,2019-03,Mar 2019,10,2019,Friday,2019Q1,Expense,Other
+2019-04-08,Netflix,-13.9,debit,Television,Platinum Card,2019-04,Apr 2019,15,2019,Monday,2019Q2,Expense,Entertainment
+2019-05-08,Brewing Company,-18.0,debit,Alcohol & Bars,Silver Card,2019-05,May 2019,19,2019,Wednesday,2019Q2,Expense,Other
+2019-05-08,Credit Card Payment,349.28,credit,Credit Card Payment,Platinum Card,2019-05,May 2019,19,2019,Wednesday,2019Q2,Income,Other
+2019-05-08,Credit Card Payment,117.65,credit,Credit Card Payment,Silver Card,2019-05,May 2019,19,2019,Wednesday,2019Q2,Income,Other
+2019-06-08,Credit Card Payment,-521.17,debit,Credit Card Payment,Checking,2019-06,Jun 2019,23,2019,Saturday,2019Q2,Expense,Other
+2019-06-08,Credit Card Payment,-117.65,debit,Credit Card Payment,Checking,2019-06,Jun 2019,23,2019,Saturday,2019Q2,Expense,Other
+2019-06-08,Hardware Store,-125.0,debit,Home Improvement,Checking,2019-06,Jun 2019,23,2019,Saturday,2019Q2,Expense,Other
+2019-08-08,Grocery Store,-11.72,debit,Groceries,Silver Card,2019-08,Aug 2019,32,2019,Thursday,2019Q3,Expense,Other
+2019-09-08,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,36,2019,Sunday,2019Q3,Expense,Entertainment
+2019-09-08,Gas Company,-30.0,debit,Utilities,Checking,2019-09,Sep 2019,36,2019,Sunday,2019Q3,Expense,Other
+2019-12-08,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-12,Dec 2019,49,2019,Sunday,2019Q4,Expense,Other
+2019-12-08,Thai Restaurant,-26.67,debit,Restaurants,Silver Card,2019-12,Dec 2019,49,2019,Sunday,2019Q4,Expense,Food & Dining
+2019-01-09,Amazon,-13.09,debit,Shopping,Platinum Card,2019-01,Jan 2019,2,2019,Wednesday,2019Q1,Expense,Shopping
+2019-03-09,Mortgage Payment,-1100.0,debit,Mortgage & Rent,Checking,2019-03,Mar 2019,10,2019,Saturday,2019Q1,Expense,Other
+2019-03-09,Fancy Restaurant,-41.24,debit,Restaurants,Silver Card,2019-03,Mar 2019,10,2019,Saturday,2019Q1,Expense,Food & Dining
+2019-04-09,Netflix,-13.9,debit,Television,Platinum Card,2019-04,Apr 2019,15,2019,Tuesday,2019Q2,Expense,Entertainment
+2019-05-09,Starbucks,-3.75,debit,Coffee Shops,Platinum Card,2019-05,May 2019,19,2019,Thursday,2019Q2,Expense,Other
+2019-06-09,Credit Card Payment,1390.37,credit,Credit Card Payment,Platinum Card,2019-06,Jun 2019,23,2019,Sunday,2019Q2,Income,Other
+2019-06-09,Credit Card Payment,-1390.37,debit,Credit Card Payment,Checking,2019-06,Jun 2019,23,2019,Sunday,2019Q2,Expense,Other
+2019-06-09,Credit Card Payment,-502.75,debit,Credit Card Payment,Checking,2019-06,Jun 2019,23,2019,Sunday,2019Q2,Expense,Other
+2019-07-09,Brewing Company,-12.87,debit,Alcohol & Bars,Platinum Card,2019-07,Jul 2019,28,2019,Tuesday,2019Q3,Expense,Other
+2019-08-09,Brewing Company,-19.3,debit,Alcohol & Bars,Platinum Card,2019-08,Aug 2019,32,2019,Friday,2019Q3,Expense,Other
+2019-09-09,Shell,-28.77,debit,Gas & Fuel,Platinum Card,2019-09,Sep 2019,37,2019,Monday,2019Q3,Expense,Other
+2019-09-09,Grocery Store,-65.09,debit,Groceries,Silver Card,2019-09,Sep 2019,37,2019,Monday,2019Q3,Expense,Other
+2019-09-09,Hardware Store,-26.25,debit,Home Improvement,Silver Card,2019-09,Sep 2019,37,2019,Monday,2019Q3,Expense,Other
+2019-09-09,Spotify,-10.69,debit,Music,Platinum Card,2019-09,Sep 2019,37,2019,Monday,2019Q3,Expense,Entertainment
+2019-09-09,Gas Company,-30.0,debit,Utilities,Checking,2019-09,Sep 2019,37,2019,Monday,2019Q3,Expense,Other
+2019-11-09,Credit Card Payment,360.56,credit,Credit Card Payment,Silver Card,2019-11,Nov 2019,45,2019,Saturday,2019Q4,Income,Other
+2019-11-09,Phone Company,-65.0,debit,Mobile Phone,Checking,2019-11,Nov 2019,45,2019,Saturday,2019Q4,Expense,Other
+2019-12-09,Credit Card Payment,-360.56,debit,Credit Card Payment,Checking,2019-12,Dec 2019,50,2019,Monday,2019Q4,Expense,Other

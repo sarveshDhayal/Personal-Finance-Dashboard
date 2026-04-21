@@ -1,76 +1,80 @@
 """
 Spending categorizer for transaction data.
-Provides additional categorization and analysis utilities.
+Provides intelligent categorization based on description keywords.
 """
 
 import pandas as pd
+import re
 import logging
-from typing import Dict, List
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-# Category keywords mapping
-CATEGORY_KEYWORDS = {
-    'Groceries': ['grocery', 'whole foods', 'trader joe', 'safeway', 'food store'],
-    'Transportation': ['gas', 'uber', 'lyft', 'taxi', 'parking', 'transit'],
-    'Dining': ['restaurant', 'cafe', 'pizza', 'burger', 'sushi', 'coffee'],
-    'Entertainment': ['movie', 'netflix', 'spotify', 'game', 'concert'],
-    'Utilities': ['electric', 'water', 'internet', 'phone', 'gas bill'],
-    'Health': ['pharmacy', 'doctor', 'hospital', 'gym', 'health'],
-    'Shopping': ['amazon', 'mall', 'store', 'retail', 'shop'],
-    'Books': ['bookstore', 'kindle', 'book', 'library'],
+# Category keywords mapping - comprehensive rules
+CATEGORY_RULES = {
+    'Food & Dining': ['swiggy', 'zomato', 'restaurant', 'cafe', 'mcdonald',
+                      'dominos', 'pizza', 'burger', 'starbucks', 'kfc', 'food'],
+    'Groceries': ['bigbasket', 'grofers', 'blinkit', 'dmart', 'supermarket',
+                  'zepto', 'reliance fresh', 'more supermarket', 'grocery'],
+    'Transport': ['uber', 'ola', 'rapido', 'metro', 'petrol', 'fuel',
+                  'irctc', 'redbus', 'makemytrip', 'goibibo', 'taxi'],
+    'Shopping': ['amazon', 'flipkart', 'myntra', 'ajio', 'meesho',
+                 'nykaa', 'snapdeal', 'tatacliq', 'mall', 'retail'],
+    'Entertainment': ['netflix', 'spotify', 'hotstar', 'prime video', 'zee5',
+                      'sonyliv', 'bookmyshow', 'pvr', 'inox', 'movie'],
+    'Utilities': ['electricity', 'broadband', 'jio', 'airtel', 'vi ',
+                  'water bill', 'gas bill', 'postpaid', 'prepaid', 'bill'],
+    'Health': ['pharmacy', 'hospital', 'clinic', 'medplus', 'apollo',
+               'netmeds', '1mg', 'healthians', 'diagnostic', 'doctor'],
+    'Education': ['udemy', 'coursera', 'unacademy', 'byju', 'school fee',
+                  'college fee', 'books', 'stationery', 'education'],
+    'Finance & Banking': ['emi', 'loan', 'insurance', 'mutual fund', 'sip',
+                          'credit card bill', 'fd', 'interest', 'bank'],
+    'Rent & Housing': ['rent', 'maintenance', 'society', 'landlord', 'pg', 'housing'],
+    'Income': ['salary', 'freelance', 'payment received', 'refund',
+               'cashback', 'interest credit', 'dividend', 'income'],
 }
 
 
-def categorize_transaction(description: str, existing_category: str) -> str:
-    """
-    Categorize a transaction based on description keywords.
-    Falls back to existing category if no match found.
-    """
-    description_lower = description.lower()
-    
-    for category, keywords in CATEGORY_KEYWORDS.items():
-        if any(keyword in description_lower for keyword in keywords):
+def categorize(description: str) -> str:
+    """Categorize a transaction based on description keywords."""
+    desc = str(description).lower()
+    for category, keywords in CATEGORY_RULES.items():
+        if any(re.search(kw, desc) for kw in keywords):
             return category
-    
-    return existing_category
+    return 'Other'
 
 
 def apply_categorization(df: pd.DataFrame) -> pd.DataFrame:
     """Apply categorization rules to all transactions."""
     df = df.copy()
-    df['category'] = df.apply(
-        lambda row: categorize_transaction(row['description'], row['category']),
-        axis=1
-    )
+    df['category'] = df['Description'].apply(categorize)
     logger.info("Categorization applied to all transactions")
     return df
 
 
-def get_spending_summary(df: pd.DataFrame) -> pd.DataFrame:
-    """Generate spending summary by category."""
-    summary = df.groupby('category')['amount'].agg(['sum', 'count', 'mean'])
-    summary.columns = ['Total', 'Count', 'Average']
-    summary = summary.sort_values('Total', ascending=False)
-    logger.info("Spending summary generated")
-    return summary
+def get_uncategorized(df: pd.DataFrame) -> pd.DataFrame:
+    """Get uncategorized transactions for review."""
+    uncategorized = df[df['category'] == 'Other']
+    logger.info(f"Uncategorized transactions: {len(uncategorized)}")
+    return uncategorized
 
 
 def main():
     """Main execution."""
     input_file = "data/cleaned/transactions_clean.csv"
     df = pd.read_csv(input_file)
-    df['date'] = pd.to_datetime(df['date'])
     
     df = apply_categorization(df)
+    uncategorized = get_uncategorized(df)
+    
+    print(f"\n⚠️  Uncategorized: {len(uncategorized)} rows")
+    if len(uncategorized) > 0:
+        print(uncategorized['Description'].value_counts().head(20))
+    
     df.to_csv(input_file, index=False)
-    
-    summary = get_spending_summary(df)
-    logger.info(f"\nSpending Summary:\n{summary}")
-    
-    logger.info("Categorization complete!")
+    logger.info("✅ Categories applied and saved")
 
 
 if __name__ == "__main__":
